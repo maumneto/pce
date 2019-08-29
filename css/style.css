@@ -91,3 +91,14 @@ center{
     text-align: center;
     border-radius: 1em;
 }
+
+.div_tech{
+    display: table-cell;
+    vertical-align: middle;
+    width: 100px;
+    height: 90px;
+    background-color: white;
+    color: white;
+    text-align: center;
+    border-radius: 1em;
+}
