@@ -1,4 +1,11 @@
+@font-face {
+    font-family: 'Roboto Mono', monospace;
+    src: url('../fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf');
+    font-weight: bolder;
+}
+
 body{
+    font-family: 'Roboto Mono';
     margin: 10px;
     font-size: 16px;
     background-color: #0067A2;
@@ -7,6 +14,7 @@ body{
 }
 
 div{
+    font-family: 'Roboto Mono';
     display: block;
 }
 
@@ -21,6 +29,7 @@ center{
 }
 
 .title_box{
+    font-family: 'Roboto Mono';
     font-size: 22px;
     font-weight: bold;
     padding-bottom: 10px;
@@ -30,6 +39,7 @@ center{
 
 .box_item{
     padding: 5px 5px 5px 5px;
+    font-family:'Roboto Mono';
     font-weight: bold;
     font-size: 20px;
     background-color: aliceblue;
